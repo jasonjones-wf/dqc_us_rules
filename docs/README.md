@@ -1,0 +1,9 @@
+Current Rules:
+
+[DQC 4](DQC_US_0004.md)
+[DQC 5](DQC_US_0005.md)
+[DQC 6](DQC_US_0006.md)
+[DQC 9](DQC_US_0009.md)
+[DQC 15](DQC_US_00015.md)
+[DQC 33](DQC_US_00033.md)
+[DQC 36](DQC_US_00036.md)
