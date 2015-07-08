@@ -1,1 +1,0 @@
-[Rule Index](README.md)
