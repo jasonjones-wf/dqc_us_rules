@@ -7,6 +7,7 @@ dqc_us_rules is a plugin for Arelle that contains the agreed upon set of rules f
 * The agreed upon rules as set forth by the members of the XBRL US Data Quality Committee
 * Reference implementation of the agreed upon rules, using Arelle as an XBRL processor.
 * Unit tests for the reference implementation
+* A [rule definition index](docs/README.md)
 
 ## Contributions and Feedback
 
@@ -66,7 +67,3 @@ When that is finished, we will then install the remainder of the development req
 To run the unit tests, simply run the included shell script
 
     ./run-unit-tests.sh
-
-## Rule Index
-
-The rule definition index is [here](docs/README.md).
