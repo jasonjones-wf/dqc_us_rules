@@ -8,6 +8,18 @@ dqc_us_rules is a plugin for Arelle that contains the agreed upon set of rules f
 * Reference implementation of the agreed upon rules, using Arelle as an XBRL processor.
 * Unit tests for the reference implementation
 
+## Contributions and Feedback
+
+The [Data Quality Committee](http://xbrl.us/home/data-quality/committee/) encourages contributions and feedback to this ruleset.
+
+If you have feedback about the rules themselves, please use the [Data Quality Committee public review site](http://publicreview.xbrl.us) to comment.
+
+The implementation of these rules is an iterative process.  The [master branch](https://github.com/DataQualityCommittee/dqc_us_rules) represents the current state, but we expect to improve the implementation via incremental changes.  This repo contains a [history](https://github.com/DataQualityCommittee/dqc_us_rules/commits/master) of all changes made.
+
+If you have feedback or contributions to the implementation of the rules we encourage code contributions via [pull request](https://github.com/DataQualityCommittee/dqc_us_rules/pulls) or you can submit a github [issue](https://github.com/DataQualityCommittee/dqc_us_rules/issues) to this repo. 
+
+Please provide an explanation of the purpose and need of the change in your PR or Issue.  [@andrewperkins-wf](https://github.com/andrewperkins-wf) and [@hermfischer-wf](https://github.com/hermfischer-wf) will review pull requests for code improvements and fixes on github.  However, substantive rule changes and new rules must be routed to the [Committee](http://xbrl.us/home/data-quality/committee/) for approval before any code can be incorporated into the ruleset.
+
 ## Deployment
 
 * Deploy with Arelle
@@ -58,9 +70,3 @@ To run the unit tests, simply run the included shell script
 ## Rule Index
 
 The rule definition index is [here](docs/README.md).
-
-## Change Management
-
-We actively accept, and encourage, pull requests for code changes.  An explanation of what the change is for, and why, is required, and the request will be reviewed by the technical leads of the project.  If the request is accepted, it will be merged into the master branch.  If it is found to be missing something, or incomplete, commments will be noted regarding the missing or incomplete pieces.
-
-To propose new rules, you can submit requests through the [Data Quality Committee](Link Here).
